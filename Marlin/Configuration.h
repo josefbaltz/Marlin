@@ -1411,7 +1411,7 @@
  *
  * DO NOT USE THIS IF RUNNING WITH THE 5 PIN BLTOUCH/CRTOUCH CABLE
  */
-#define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
+//#define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
 
 // Force the use of the probe for Z-axis homing
 #define USE_PROBE_FOR_Z_HOMING
