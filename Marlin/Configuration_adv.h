@@ -2425,7 +2425,7 @@
   // Override the mesh area if the automatic (max) area is too large
   #define MESH_MIN_X 34  //52mm from edge
   #define MESH_MIN_Y 53  //52mm from edge
-  #define MESH_MAX_X 334 //52mm from edge
+  #define MESH_MAX_X 324 //52mm from edge
   #define MESH_MAX_Y 315 //52mm from edge
 #endif
 
